@@ -9,8 +9,7 @@ I am a senior at Texas State University majoring in Electrical Engineering with 
 
 Here's what I've been working on recently:
 
-*   ***   **[Object-Oriented Engineering Data Analysis System](link-to-repo)** - *A Python-based OOP application utilizing Pandas and NumPy to analyze and run quality control on simulated engineering sensor data. Architected the data integration pipeline, automated QC reporting, and built the command-line interface.*
-
+*   *   **[Object-Oriented Engineering Data Analysis System](link-to-repo)** - *Collaborated on a modular Python OOP application for analyzing sensor data. My role focused on building the backend data integration pipeline, developing Pandas-driven quality control reports, and designing the interactive CLI and visualizations.*
 ---
 
 ### Technical Skills & Interests
