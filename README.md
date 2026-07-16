@@ -1,4 +1,4 @@
-# Hi there, I'm Isaiah Contreras 👋
+# Hi, I'm Isaiah Contreras 
 
 ### Electrical Engineering | Micro & Nano Device Systems
 
@@ -9,7 +9,7 @@ I am a senior at Texas State University majoring in Electrical Engineering with 
 
 Here's what I've been working on recently:
 
-*   **[Insert Main Relevant Project Name]** - *[Brief description highlighting the micro/nano or circuit design elements]* [Link to repository]
+*   ***   **[Object-Oriented Engineering Data Analysis System](link-to-repo)** - *A Python-based OOP application utilizing Pandas and NumPy to analyze and run quality control on simulated engineering sensor data. Architected the data integration pipeline, automated QC reporting, and built the command-line interface.*
 
 ---
 
